@@ -200,10 +200,13 @@
     <td align="center" width="1000">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumurugan7&show_icons=true&locale=en&layout=compact" alt="thirumurugan7" /></p>
 </td>
+  </tr>
+  <tr>
 
     <td align="center" width="1000">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thirumurugan7&" alt="thirumurugan7" /></p>
 </td>
+  </tr>
 <tr>
     <td align="center" width="1000">
 </table>
