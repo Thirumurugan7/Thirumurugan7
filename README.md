@@ -207,7 +207,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thirumurugan7&" alt="thirumurugan7" /></p>
 </td>
   </tr>
-<tr>
+
 
 </table>
 
