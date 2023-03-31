@@ -162,7 +162,7 @@
       <br>Tensorflow
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
+      <a href="#thirumurugan7">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material ui
@@ -174,7 +174,7 @@
       <br>Solidity
     </td>
      <td align="center" width="96"> 
-      <a href="#vmmuthu31" >
+      <a href="#thirumurugan7" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
