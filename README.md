@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Thirumurugan Sivalingam</h1>
-<h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
+<h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thirumurugan7&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
 <a href="#vmmuthu31-title">
