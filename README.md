@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Thirumurugan Sivalingam</h1>
 <h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thirumurugan7&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
-<a href="#vmmuthu31-title">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thirumurugan7&label=Profile%20views&color=0e75b6&style=flat" alt="thirumurugan7" /> </p>
+<a href="#thirumurugan7-title">
   <img src="https://github-readme-stats.vercel.app/api?username=thirumurugan7&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="thirumurugan7" align="right" />
 </a>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-<h2 align="left" id=""vmmuthu31>Favorite Tech</h2>
+<h2 align="left" id=""thirumurugan7>Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
 
 <table align="center">
