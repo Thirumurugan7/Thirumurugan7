@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thirumurugan7&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="thirumurugan7" align="right" />
 </a>
 
-- 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"25
+- 🏫: &nbsp;I'm working as DevRel at Metis
 
 - :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
