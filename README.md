@@ -1,20 +1,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Thirumurugan Sivalingam</h1>
-<h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
+<h3 align="center">Passionate for innovation, I keep moving forward</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thirumurugan7&label=Profile%20views&color=0e75b6&style=flat" alt="thirumurugan7" /> </p>
-<a href="#thirumurugan7-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=thirumurugan7&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="thirumurugan7" align="right" />
-</a>
+
 
 - 🏫: &nbsp;I worked as DevRel Led at Metis
 
 - :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
-- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/thiru-murugan-935464218/)
+- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/thirumurugan-sivalingam-935464218/)
 - 📫 How to reach me **0xthiru8gmail.com**
-- :bird: &nbsp;Let's talk more in [Twitter](https://twitter.com/0xthiru)
+- :bird: &nbsp;Let's talk more in [Twitter](https://x.com/0xthiru)
 
 
 <br>
