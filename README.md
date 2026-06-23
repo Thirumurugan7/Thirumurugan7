@@ -8,7 +8,7 @@
 
 - 🏫: &nbsp;I worked as DevRel Led at Metis
 
-- :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
+- :speech_balloon: &nbsp;I like to talk about **AI** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/thirumurugan-sivalingam-935464218/)
 - 📫 How to reach me **0xthiru8gmail.com**
@@ -24,13 +24,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZML5YNSht3eLgzsf7jfGr0GDbuzcmJTkZ1w&s" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -48,7 +48,7 @@
     </td>
     <td align="center" width="96">
       <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
@@ -66,7 +66,7 @@
     </td>
     <td align="center" width="96">
       <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="48" height="48" alt="Node JS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/960px-Node.js_logo.svg.png?_=20170401104355" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
@@ -87,7 +87,7 @@
     </td>
     <td align="center" width="96">
       <a href="#thirumurugan7" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ67yXs_7qxz3d-cF5YlqlMN5qcn1s3RSZndA&s" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
@@ -99,9 +99,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHR_P-7OxbDx2-EpUFbKc24Ee2jKJYms_gUw&s" width="48" height="48" alt="React Native" />
       </a>
-      <br>Electron
+      <br>React Native
     </td>
     <td align="center" width="96">
       <a href="#thirumurugan7">
@@ -111,19 +111,19 @@
     </td>
     <td align="center"  width="96">
       <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLMDyRO4LE9xjfZyLZo--2jBggUSXwhsaw&s" width="48" height="48" alt="Cairo" />
       </a>
-      <br>WordPress
+      <br>Cairo
     </td>
     <td align="center" width="96">
       <a href="#thirumurugan7" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1280px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>
     <td align="center" width="96">
       <a href="#thirumurugan7" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
@@ -137,7 +137,7 @@
    <tr>
     <td align="center" width="96">
       <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/960px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>
@@ -155,13 +155,13 @@
     </td>
     <td align="center" width="96">
       <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/3840px-TensorFlow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
       </a>
       <br>Tensorflow
     </td>
     <td align="center" width="96">
       <a href="#thirumurugan7">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+        <img src="https://img.icons8.com/color/1200/material-ui.jpg" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material ui
     </td>
