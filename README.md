@@ -8,13 +8,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thirumurugan7&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="thirumurugan7" align="right" />
 </a>
 
-- 🏫: &nbsp;I'm working as DevRel at Metis
+- 🏫: &nbsp;I worked as DevRel Led at Metis
 
 - :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/thiru-murugan-935464218/)
-- 📫 How to reach me **thirumurugan82003@gmail.com.com**
-- :bird: &nbsp;Let's talk more in [Twitter](https://twitter.com/thiru_levi)
+- 📫 How to reach me **0xthiru8gmail.com**
+- :bird: &nbsp;Let's talk more in [Twitter](https://twitter.com/0xthiru)
 
 
 <br>
